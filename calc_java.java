@@ -5,10 +5,9 @@ import java.util.Scanner;
 
 public class calculadoraBasica
 {
-  static Scanner entrada = new Scanner(System.in);
+static Scanner entrada = new Scanner(System.in);
   public static void main (String[] args)
-  
-    int opcion;
+  {
+ on;
     float n1, n2;
     
-}
